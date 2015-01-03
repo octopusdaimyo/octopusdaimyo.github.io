@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://octopusdaimyo.github.io/sitemap.xml 
